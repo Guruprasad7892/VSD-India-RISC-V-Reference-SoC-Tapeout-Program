@@ -45,7 +45,7 @@ $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
 
-// image 2
+![Image](https://github.com/user-attachments/assets/546dde15-f72a-4bcf-9fb3-107941a2fde1)
 
 
 ## gtk wave
