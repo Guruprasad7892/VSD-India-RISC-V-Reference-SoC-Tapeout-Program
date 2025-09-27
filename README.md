@@ -55,4 +55,4 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 
-// image 3
+![Image](https://github.com/user-attachments/assets/5408c9ab-47e5-4ec9-87f8-02bef056ee97)
