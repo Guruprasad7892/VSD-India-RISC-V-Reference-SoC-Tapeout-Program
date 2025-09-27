@@ -33,7 +33,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-// image 1
+![Image](https://github.com/user-attachments/assets/717f249e-628c-4b8d-a09a-a5a2f207a3ea)
 
 
 
